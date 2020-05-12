@@ -156,7 +156,7 @@ var CellY2 [2];
 var CellZ1 [2];
 var CellZ2 [2];
 
-var video_mode = 6;	 // screen size 640x480
+var video_mode = 8;	 // screen size 1024x768
 var video_depth = 16; // 16 bit colour D3D mode
 
 var percent = 0;

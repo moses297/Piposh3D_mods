@@ -15,7 +15,7 @@ string cheatstring = "                                                          
 string stringtemp = "                          ";
 
 var BlahBlah = 0;
-var video_mode = 6;	 // screen size 640x480
+var video_mode = 8;	 // screen size 1024x768
 var video_depth = 16; 	 // 16 bit colour D3D mode
 
 var SkipDJ = 0;
