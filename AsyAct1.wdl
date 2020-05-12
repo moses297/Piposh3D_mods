@@ -13,7 +13,7 @@ synonym BadGuy1 { type entity; }
 synonym BadGuy2 { type entity; }
 synonym MadPip  { type entity; }
 
-var video_mode = 6;	 // screen size 640x480
+var video_mode = 8;	 // screen size 1024x768
 var video_depth = 16; // 16 bit colour D3D mode
 var HasUndies = 0;
 var UnderWearTaken = 0;

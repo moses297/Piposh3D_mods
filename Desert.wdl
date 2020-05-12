@@ -7,7 +7,7 @@ var Stage = 1;
 var TheZ = 0;
 var BeInvis = 0;
 
-var video_mode = 6;	 // screen size 640x480
+var video_mode = 8;	 // screen size 1024x768
 var video_depth = 16; // 16 bit colour D3D mode
 var camera_dist = 240;   // camera distance to entity in 3rd person view
 var cameraX[15] = 3563,1107,-1955,-5249,-8539,-10891,-12225,-12265,-11139,-8448,-5397,-2139,1123,3626,5188;
